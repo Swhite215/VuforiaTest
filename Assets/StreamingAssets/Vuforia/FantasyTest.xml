@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wow5" size="1.500000 0.975852" />
+    <ImageTarget name="wow4" size="1.000000 1.273292" />
+    <ImageTarget name="wow3" size="1.000000 1.545226" />
+    <ImageTarget name="wow2" size="1.000000 1.348684" />
+    <ImageTarget name="wow1" size="1.000000 1.302966" />
+  </Tracking>
+</QCARConfig>
